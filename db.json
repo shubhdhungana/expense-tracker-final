@@ -1,0 +1,28 @@
+{
+  "expenses": [
+    {
+      "id": "0802",
+      "name": "gucci bag",
+      "amount": "12000",
+      "category": "entertainment"
+    },
+    {
+      "id": "2267",
+      "name": "lamborghini",
+      "amount": "20000",
+      "category": "transport"
+    },
+    {
+      "id": "0664",
+      "name": "car",
+      "amount": "1000",
+      "category": "transport"
+    },
+    {
+      "name": "noodles",
+      "amount": "66999.97",
+      "category": "groceries",
+      "id": "6a93"
+    }
+  ]
+}
