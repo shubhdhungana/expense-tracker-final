@@ -153,7 +153,7 @@ function App() {
             
             <p>Note: Api- http://localhost:5001/expenses</p>
             <p> </p>
-            <p>Created By: Shubham Dhungana</p>
+            <p>Created By: Shubham Dhungana . </p>
           </div>
         </form>
       </div>
